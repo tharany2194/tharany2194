@@ -49,6 +49,17 @@ I love mentoring students, solving real-world problems with code, and delivering
 
 # 📂 Featured Projects (Showcase)
 
+### 🚀 **Nurse Led Cancer Care giver Program Web App (MERN)**  
+A Cancer Caregiver Program using Web Application with dashboards, charts, multilingual support, and role-based access.  
+📌 *Code available on request.*
+
+### 🚀 **Portfolio (MERN)**  
+Portfolio for showcasing profile of myself  
+
+### 🚀 **Coconut oil store Website (MERN)**  
+Business Profile  
+📌 *Code available on request.*
+
 ### 🚀 **Leaderboard Web App (MERN)**  
 A student performance tracking system with dashboards, charts, multilingual support, and role-based access.  
 📌 *Code available on request.*

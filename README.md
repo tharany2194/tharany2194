@@ -78,10 +78,8 @@ Converted a React UI into a dynamic WordPress theme using PHP + ACF.
 
 # 🧭 Current Focus  
 - Building a caregiver–patient MERN system  
-- Mastering advanced React architecture  
-- Preparing educational content for workshops  
-- Readying for Master’s studies in Australia  
-
+- Mastering advanced React architecture
+- Building Functional applications extracted from my own ideas
 ---
 
 # 🤝 Open for Collaboration  

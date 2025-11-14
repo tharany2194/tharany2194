@@ -1,89 +1,101 @@
-# 👋 Hi, I'm Tharany Sivapaskaran  
-### Full-Stack Developer | MERN Stack | Lecturer 
 
-I’m a passionate Full-Stack Developer and Web Development Lecturer with experience building fast, scalable, and user-friendly applications.  
-My work spans **MERN Stack**, **React**, **Node.js**, **Express**, **MongoDB**, and **WordPress** — along with frontend frameworks like **Tailwind CSS**, **MUI**, and modern tooling.
 
-I enjoy transforming ideas into fully functional products, mentoring students, and building real-world solutions that solve meaningful problems.
+<!-- Typing Animation -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=FF6B81&center=true&vCenter=true&width=850&lines=Hi+I'm+Tharany+Sivapaskaran;Full-Stack+Developer;MERN+Stack+Developer;Web+Development+Lecturer;Digital+Solutions+Builder;I+build+clean+modern+web+experiences" />
+  </a>
+</h1>
 
----
-
-## 🔥 What I Do
-- 🌐 Build responsive, high-performance web applications  
-- 🧩 Develop full-stack systems (MERN)  
-- 🎨 Create clean, modern UIs with React + Tailwind  
-- 🗄️ Design robust backend APIs with JWT Auth, CRUD, and role-based access  
-- 🧑‍🏫 Teach students web development (React, Node, DBs, GitHub)  
-- 📝 Convert Figma/UI ideas into production-ready apps  
-      and much more..
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tharany2194&label=Profile%20Visits&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
-*(Code of some projects are private. Public repos below show select work.)*
+## 🚀 About Me  
+I'm a passionate **Full-Stack Developer** and **Web Development Lecturer** who enjoys building fast, modern, and scalable digital solutions.  
 
-### 🔹 **Leaderboard Web App**  
-Full MERN stack student performance tracking system with dashboard, charts, role access, and multi-language support.  
-**Tech:** React, Tailwind, Node.js, Express, MongoDB
+I specialize in:  
+**React, Node.js, Express, MongoDB, Tailwind CSS, PHP, MySQL, WordPress**  
 
-### 🔹 **Food Delivery App**  
-End-to-end delivery system with menu display, order tracking, admin dashboard.  
-**Tech:** React, Node.js, Express, REST API
-
-### 🔹 **Digital Marketing Agency Website**  
-SEO-optimized, multilingual website with blog system built from scratch.  
-**Tech:** React, React Router, Tailwind CSS
-
-### 🔹 **Construction Company Blog Platform**  
-Responsive blog pages with dynamic routing and reusable components.  
-**Tech:** React, Tailwind, Vite
-
-### 🔹 **WordPress Custom Theme Development**  
-Converting React UI to a classic PHP WordPress theme with responsive nav.
-
-👉 *More projects available upon request.*
+I love mentoring students, solving real-world problems with code, and delivering impactful user experiences.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠 Tech Stack
 
-### **Frontend**
-React • JavaScript (ES6+) • Vite • Tailwind CSS • MUI • HTML • CSS • Bootstrap
+### ⭐ Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,python" />
+</p>
 
-### **Backend**
-Node.js • Express.js • MongoDB • REST APIs 
+### ⭐ Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+</p>
 
-### **Other Skills**
-Git & GitHub • WordPress Theme Dev • Figma → Code • Multilingual Websites  
-Teaching & Mentoring • Responsive UI/UX • Deployment (Netlify, Vercel)
+### ⭐ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
+</p>
 
----
-
-## 📚 Current Focus
-- 🔥 Building a large caregiver-patient MERN system  
-- 🧭 Improving advanced React patterns and system design  
-- 📝 Developing interactive course material for workshops  
-- 🌏 Planning for Master’s studies in Australia (2026)
-
----
-
-## 🤝 Open to Collaboration
-I'm actively open to:
-- Web development collaborations  
-- MERN stack projects  
-- Teaching / mentoring opportunities  
-- Freelance or part-time development work  
-- Open-source contributions  
-
-If you have an idea, let’s build something great together!
+### ⭐ Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vercel,netlify" />
+</p>
 
 ---
 
-## 📫 Contact Me
-- **LinkedIn:** *https://www.linkedin.com/in/tharany-sivapaskaran-5951431a3/*  
-- **Portfolio Website:** *tharany-portfolio.vercel.app*  
-- **Email:** *tharany.sivapaskaran@gmail.com*
+# 📂 Featured Projects (Showcase)
+
+### 🚀 **Leaderboard Web App (MERN)**  
+A student performance tracking system with dashboards, charts, multilingual support, and role-based access.  
+📌 *Code available on request.*
+
+### 🍔 **Food Delivery App**  
+End-to-end food ordering system — menu, cart, checkout, and admin management.  
+📌 *Code available on request.*
+
+### 🎯 **Digital Marketing Agency Website**  
+Modern, SEO-optimized multilingual site with blogs and services.
+
+### 🎨 **Custom WordPress Theme**  
+Converted a React UI into a dynamic WordPress theme using PHP + ACF.
 
 ---
 
-### 🌟 *“Code that solves problems. Design that inspires. Teaching that empowers.”*
+# 🧭 Current Focus  
+- Building a caregiver–patient MERN system  
+- Mastering advanced React architecture  
+- Preparing educational content for workshops  
+- Readying for Master’s studies in Australia  
+
+---
+
+# 🤝 Open for Collaboration  
+I’m open to:  
+✔ MERN Stack development  
+✔ React UI projects  
+✔ WordPress + PHP  
+✔ Teaching & mentoring  
+✔ Freelance collaborations  
+
+Let’s build something impactful together!
+
+---
+
+# 📫 Contact Me
+
+- **LinkedIn:**  
+  https://www.linkedin.com/in/tharany-sivapaskaran-5951431a3/
+
+- **Portfolio:**  
+  https://tharany-portfolio.vercel.app/
+
+- **Email:**  
+  tharany.sivapaskaran@gmail.com
+
+---
+
+<p align="center"><strong>🌟 “Code with purpose. Teach with passion. Build with impact.” 🌟</strong></p>

@@ -17,7 +17,7 @@
 I'm a passionate **Full-Stack Developer** and **Web Development Lecturer** who enjoys building fast, modern, and scalable digital solutions.  
 
 I specialize in:  
-**React, Node.js, Express, MongoDB, Tailwind CSS, PHP, MySQL, WordPress**  
+**React, Node.js, Express, MongoDB, Tailwind CSS, WordPress, Python**  
 
 I love mentoring students, solving real-world problems with code, and delivering impactful user experiences.
 
